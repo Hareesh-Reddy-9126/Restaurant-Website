@@ -89,8 +89,6 @@ open index.html
 **👨‍💻 Gurrala Hareesh Reddy**  
 🎓 Roll No: 2400090155  
 📚 Branch: CS&IT  
-🌍 Internship Mode: Remote  
-📺 [YouTube Project Video](https://youtube.com/shorts/pOkt3kQZjKc?si=IIZ8rUJvVAjctdpu)
 
 ---
 
